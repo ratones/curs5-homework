@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ro.fasttrackit.curs5homework.Curs5HomeworkApplication-File" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ro.fasttrackit.curs5homework.Curs5HomeworkApplication" />
+    <module name="curs5-homework" />
+    <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=file" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

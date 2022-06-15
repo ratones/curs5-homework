@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ro.fasttrackit.curs5homework.Curs5HomeworkApplication-Memory" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ro.fasttrackit.curs5homework.Curs5HomeworkApplication" />
+    <module name="curs5-homework" />
+    <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=memory" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="ro.fasttrackit.curs5homework.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

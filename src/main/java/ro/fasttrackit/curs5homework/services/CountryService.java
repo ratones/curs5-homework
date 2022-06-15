@@ -11,7 +11,7 @@ public class CountryService {
     private final List<Country> countries;
 
     public CountryService(CountryReader reader) {
-        this.countries = reader.readFile();
+        this.countries = reader.getCountries();
     }
 
     public List<Country> getAll(){
